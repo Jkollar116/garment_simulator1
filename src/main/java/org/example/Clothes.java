@@ -1,6 +1,11 @@
 package org.example;
 
 public abstract class Clothes {
+    //created a class called Clothes with two instance variables, type and category
+    //created a constructor that takes in two parameters, type and category
+    //created getters and setters for the instance variables
+
+
     protected String type;
     protected String category;
 
